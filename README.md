@@ -19,7 +19,6 @@ An AI-powered interview preparation platform that helps students become placemen
 - LangChain
 - LangGraph
 - OpenRouter
-- GPT-OSS
 - LangSmith
 
 ## 🏗️ Workflow
@@ -86,32 +85,6 @@ bash
 streamlit run app.py
 ```
 
-## 💼 Supported Roles
-
-- Python Developer
-- Data Scientist
-- Machine Learning Engineer
-- Full Stack Developer
-- AI Engineer
-- Software Developer
-- Data Analyst
-- Cloud Engineer
-
-## 🔮 Future Enhancements
-
-- Voice-based mock interviews
-- Resume-based question generation
-- User authentication
-- Interview history and analytics
-- Company-specific interview preparation
-
-## 👩‍💻 Author
-
-**Prathvi P Rao** (she/her)
-
-GitHub: @prathvi128
-
----
 
 ⭐ If you find this project useful, don't forget to give it a star\!
 
